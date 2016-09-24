@@ -1,0 +1,9 @@
+{
+  "name": "dsl-generated-dependencies",
+  "dependencies": {
+    "material-design-lite": "latest",
+    "material-design-icons": "latest"
+  },
+  "resolutions": {
+  }
+}
